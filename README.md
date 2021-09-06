@@ -11,3 +11,5 @@
 [Ejercicio 1 python](https://github.com/ismaelmoralesg/mineria_001/blob/main/Ej_Python_1941526.ipynb)
 
 [Avance PIA](https://github.com/calebmarentes10/Mineria-de-datos-/blob/main/Avance1_PIA_Equipo2.ipynb)
+
+[Presentación por equipo](https://github.com/mariagarnica/_mineria/blob/main/Presentacion_MetricasdeEvaluacion_Equipo2.pdf)
