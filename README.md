@@ -16,4 +16,4 @@
 
 [Avance PIA II](https://github.com/calebmarentes10/Mineria-de-datos-/blob/main/AvancePIA_II_Grupo001_2.ipynb)
 
-[Avance PIA II 2da parte](Mineria-de-datos-/Visualizacion_Equipo2_Parte2.ipynb) 
+[Avance PIA II 2da parte](https://github.com/calebmarentes10/Mineria-de-datos-/blob/main/Visualizacion_Equipo2_Parte2.ipynb)
