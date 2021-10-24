@@ -19,3 +19,5 @@
 [Avance PIA II 2da parte](https://github.com/calebmarentes10/Mineria-de-datos-/blob/main/Visualizacion_Equipo2_Parte2.ipynb)
 
 [Notebook](https://github.com/calebmarentes10/Mineria-de-datos-/blob/main/Notebook_Equipo2.ipynb)
+
+[Poster](https://github.com/DayanneVidal/Mineria.de.Datos/blob/main/Poster-Equipo%202.pdf)
